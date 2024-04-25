@@ -1,5 +1,6 @@
 # PromptifyAI
-<img width="1439" alt="image" src="https://github.com/Vaishnaviii25/PromptifyAI/assets/91953299/0c14c21a-98df-4552-8974-ac5723b2ccaa">
+<img width="1440" alt="image" src="https://github.com/Vaishnaviii25/promptify/assets/91953299/c36ecfa5-27bc-466c-b266-b587ee2170b0">
+
 
 ## About
 
