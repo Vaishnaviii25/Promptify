@@ -1,3 +1,18 @@
+# PromptifyAI
+<img width="1439" alt="image" src="https://github.com/Vaishnaviii25/PromptifyAI/assets/91953299/0c14c21a-98df-4552-8974-ac5723b2ccaa">
+
+## About
+
+PromptifyAI allows users to seamlessly search for creative prompts using tags or usernames. Whether you're looking for inspiration for web development, AI research, or any other creative endeavor, PromptifyAI offers a community-driven platform to boost your creativity.
+
+## Features
+
+- Search functionality for users and tags
+- User profiles with prompt contributions
+- Option to create and share prompts
+- Open-source codebase inviting contributions
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
